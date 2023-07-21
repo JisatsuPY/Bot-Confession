@@ -30,7 +30,9 @@
 
 
 --------------------------------------------------------------------------------
-## Voici un exemple des confessions et des logs
+<h1 align="center">[Discord] - Bot Confessions (V1.0)</h1>
+<p align="center">
+  
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1131857108476887081/1131858259666554880/image.png">
 </p>
