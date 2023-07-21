@@ -29,7 +29,9 @@
 - Si vous avez besoin d'aide avec le bot, voici mon pseudo discord : .jisatsu.
 
 
-
+<p align="center">
+  Voici un exemple des confessions :
+</p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1131829171753066516/1131856508158746624/image.png">
 </p>
