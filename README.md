@@ -24,9 +24,8 @@
 - [x] - [Une prise en main simple]()
 
 
-<h1 align="center">informations complémentaires)</h1>
-<p align="center">
---------------------------------------------------------------------------------
+<h1 align="center">Informations Complémentaires</h1>
+<p align="center">  
 <p align="center">
   - Si vous avez besoin d'aide avec le bot, voici mon pseudo discord : .jisatsu.
 </p>
