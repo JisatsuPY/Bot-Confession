@@ -31,8 +31,8 @@
 
 --------------------------------------------------------------------------------
 
-## Voici un exemple de confession
 <p align="center">
+  Voici un exemple de confession
   <img src="https://cdn.discordapp.com/attachments/1131857108476887081/1131858259666554880/image.png">
 </p>
 
