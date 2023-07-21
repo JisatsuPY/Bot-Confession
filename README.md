@@ -34,9 +34,9 @@
   Voici un exemple des confessions :
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1131829171753066516/1131856508158746624/image.png">
+  <img src="https://cdn.discordapp.com/attachments/1131857108476887081/1131857310294233139/image.png">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1131829171753066516/1131856545957818399/image.png">
+  <img src="https://cdn.discordapp.com/attachments/1131857108476887081/1131857310294233139/image.png">
 </p>
