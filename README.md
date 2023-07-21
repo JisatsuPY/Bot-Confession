@@ -24,13 +24,15 @@
 - [x] - [Une prise en main simple]()
 
 
-## informations complémentaires
+<h1 align="center">informations complémentaires)</h1>
+<p align="center">
 --------------------------------------------------------------------------------
-- Si vous avez besoin d'aide avec le bot, voici mon pseudo discord : .jisatsu.
-
+<p align="center">
+  - Si vous avez besoin d'aide avec le bot, voici mon pseudo discord : .jisatsu.
+</p>
 
 --------------------------------------------------------------------------------
-<h1 align="center">[Exemple] - Confessions et Logs (V1.0)</h1>
+<h1 align="center">[Exemple] - Confessions et Logs</h1>
 <p align="center">
   
 <p align="center">
