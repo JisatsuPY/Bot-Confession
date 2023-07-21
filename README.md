@@ -16,7 +16,7 @@
 
 ## Features
 --------------------------------------------------------------------------------
-- [x] - [MP le bot pour envoyer la confession]()
+<h1 align="center"><h1 align="center">Informations Complémentaires</h1></h1>
 - [x] - [Confession directement envoyé dans le salon]()
 - [x] - [Logs avec ID et Pseudo de la personne]()
 - [x] - [Cooldown configurable pour éviter le spam de confession]()
