@@ -30,7 +30,7 @@
 
 
 --------------------------------------------------------------------------------
-<h1 align="center">[Discord] - Bot Confessions (V1.0)</h1>
+<h1 align="center">[Exemple] - Confessions et Logs (V1.0)</h1>
 <p align="center">
   
 <p align="center">
