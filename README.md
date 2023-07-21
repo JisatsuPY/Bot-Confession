@@ -30,17 +30,10 @@
 
 
 --------------------------------------------------------------------------------
-<p align="center">
-  <img src="Voici un exemple de confession">
-</p>
-
-
-
+## Voici un exemple des confessions et des logs
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1131857108476887081/1131858259666554880/image.png">
 </p>
-
-## Voici un exemple des logs
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1131857108476887081/1131858324032327781/image.png">
 </p>
