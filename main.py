@@ -2,9 +2,9 @@ import discord
 import json
 import random
 
-bot_token = 'TOKEN_ICI'
-target_channel_id = 'SALON_CONFESSION'
-logs_channel_id = 'SALON_LOGS_CONFESSION'
+bot_token = 'TON_TOKEN_ICI'
+target_channel_id = 'ID_SALON_CONFESSION_ICI'
+logs_channel_id = 'ID_SALON_LOGS_CONFESSION_ICI'
 
 intents = discord.Intents.all()
 client = discord.Client(intents=intents)
@@ -61,7 +61,7 @@ async def on_message(message):
             embed_logs.add_field(name="Utilisateur :", value=f"||{message.author.name} ({message.author.mention})||", inline=False)
             embed_logs.add_field(name="ID de la personne :", value=f"||{message.author.id}||", inline=False)
             embed_logs.add_field(name="", value=f"Cliquez [ici](https://discord.com/channels/@me/{message.channel.id}/{message.id}) pour voir la confession.", inline=False)
-            embed_logs.set_footer(text=f"❗ Si cette confession n'est pas appropriée, signaler au staff en ouvrant un ticket. | Message privé - {message.created_at.strftime('%d/%m/%Y - %H:%M')}")
+            embed_logs.set_footer(text="❗ Si cette confession n'est pas appropriée, signaler au staff en ouvrant un ticket.")
 
             logs_channel = client.get_channel(int(logs_channel_id))
 
