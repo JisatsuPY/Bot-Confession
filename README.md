@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/996956106628800575/997027163960250450/waneella-pixel-art.gif">
 </p>
 
-<h1 align="center">[Discord] - Confessions (V1.0)</h1>
+<h1 align="center">[Discord] - Bot Confessions (V1.0)</h1>
 <p align="center">
 
 <p align="center">
