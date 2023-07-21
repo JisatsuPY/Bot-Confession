@@ -36,7 +36,10 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1131857108476887081/1131858259666554880/image.png">
 </p>
-
+--------------------------------------------------------------------------------
+<p align="center">
+  Voici un exemple des logs :
+</p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1131857108476887081/1131858324032327781/image.png">
 </p>
