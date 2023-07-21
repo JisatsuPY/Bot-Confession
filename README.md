@@ -30,3 +30,10 @@
 
 
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1131829171753066516/1131856508158746624/image.png">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1131829171753066516/1131856545957818399/image.png">
+</p>
