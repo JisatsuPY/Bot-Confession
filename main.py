@@ -2,7 +2,7 @@ import discord
 import json
 import random
 
-bot_token = 'TON_TOKEN_ICI'
+bot_token = 'TOKEN_DU_BOT_ICI'
 target_channel_id = 'ID_SALON_CONFESSION_ICI'
 logs_channel_id = 'ID_SALON_LOGS_CONFESSION_ICI'
 
